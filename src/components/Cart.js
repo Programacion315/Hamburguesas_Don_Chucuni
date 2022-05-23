@@ -41,7 +41,7 @@ const Cart = ({ cart, setCart }) => {
           X
         </button>
         {cart.length === 0 ? (
-          <p>No hay nada por aquí...</p>
+          <p>Aun no has seleccinado ninguna hamburguesa</p>
         ) : (
           cart.map((burger) => (
             <Burger

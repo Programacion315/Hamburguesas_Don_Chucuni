@@ -1,0 +1,22 @@
+{   
+    "administradores":[
+        {  "nombre": "Jorge H", "contraseña": "12345", "id": 1 }
+    ],
+    "usuarios": [    
+      { "nombre": "Luis B","contraseña": "12345","direccion":"manzana b", "id": 1}, 
+      { "nombre": "Samuel B","contraseña": "54321","direccion":"Cr 4", "id": 2},
+      { "nombre": "Johan P", "contraseña": "51423", "direccion":"Cr 6","id": 3},
+      { "nombre": "Alvaro C", "contraseña": "32415", "direccion":"Ambala","id": 4}
+    ],
+    "hamburguesas": [
+      { "tipo": "Ambala", "precio": 10000, "id": 1 },
+      { "tipo": "Estacion", "precio": 12000, "id": 2 },
+      { "tipo": "Multi", "precio": 15000, "id": 3 },
+      { "tipo": "Carrito", "precio": 20000, "id": 4 },
+      { "tipo": "Unibague", "precio": 20000, "id": 5 }
+    ],
+    "pedidos":[
+      { "idHamburguesa": "2", "idUsuario": 2, "id": 1 }
+    ]
+    
+  }

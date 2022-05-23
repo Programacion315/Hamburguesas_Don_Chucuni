@@ -14,10 +14,13 @@ const Burger = ({ burger, cart, setCart, burgers }) => {
   };
 
   return (
+
+    
+
     <ul className="container__content__burgers">
       <img className="container__content__burgers--image" src={image}></img>
       <li className="container__content__burgers--nombre">{nombre}</li>
-      <li className="container__content__burgers--precio">${precio}</li>
+      <li className="container__content__burgers--precio">{precio}k</li>
       {burgers ? (
         <button
           className="container__content__burgers--btnAdd"
