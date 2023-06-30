@@ -1,7 +1,7 @@
-# Hamburguesas Don Chucuni
-Este fork cuenta con algunas mejoras. Se cambio el diseño de la pagina, se crearon las opciones de ingresar y registrarse, además que cuenta con la opción de administrador, el cual podrá ver, todas las hamburguesas, pedidos y usuarios. 
+# Burgers Don Chucuni
+This fork has some improvements. The design of the page has been changed, the login and registration options have been created, and there is also an administrator option, which will be able to see all the burgers, orders and users. 
 
-Se agrego también una simulación de servidor que recibe peticiones fetch con "json-server".
+We also added a server simulation that receives fetch requests with "json-server".
 
 ![image](https://user-images.githubusercontent.com/83243886/169889506-1f97d0b5-aef0-4ac3-a2de-db17fd5a3ff5.png)
 
